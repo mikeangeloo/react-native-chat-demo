@@ -1,13 +1,14 @@
 {
   "expo": {
-    "name": "chat-app-demo",
+    "name": "Chat app demo",
+    "description": "Chat demo with react-native",
     "slug": "chat-app-demo",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/wired-brain-icon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/wired-brain-coffe-logo.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
